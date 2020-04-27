@@ -1,0 +1,238 @@
+html,
+body {
+  scroll-behavior: smooth;
+  background-color: black;
+  width: 100%;
+  height: 150%;
+   /* overflow:hidden; */
+}
+
+* {
+  margin: 0;
+}
+
+.fullscreen-bg__video {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.typedquestion {
+  position: absolute;
+  top: 60px;
+  left: 700px;
+  /* height: 1080px; */
+  background-color: none;
+  color: rgba(82, 3, 133, 0.75);
+font-family: 'Cantarell', sans-serif;
+font-style: italic;
+  font-size: 17pt;
+}
+
+.answer {
+  display: grid;
+  position: relative;
+  background-color: none;
+  /* font-family: 'Open Sans', sans-serif; */
+  font-family: 'Cantarell', sans-serif;
+  font-size: 17pt;
+  font-style: normal;
+  text-align: right;
+  left:175px;
+  max-width: 300px;
+}
+
+.typedquestion2 {
+  position: absolute;
+  top: 1060px;
+  font-style: italic;
+  left: 700px;
+  /* height: 1080px; */
+  background-color: none;
+  color: rgba(82, 3, 133, 0.75);
+font-family: 'Cantarell', sans-serif;
+  font-size: 17pt;
+}
+.typedquestion3 {
+  position: absolute;
+  top: 2060px;
+  left: 700px;
+  /* height: 1080px; */
+  background-color: none;
+  font-style: italic;
+  color: rgba(82, 3, 133, 0.75);
+  font-family: 'Cantarell', sans-serif;
+  font-size: 17pt;
+}
+
+.typedquestion4 {
+  position: absolute;
+  top: 3060px;
+  left: 700px;
+  /* height: 1080px; */
+  background-color: none;
+  color: rgba(82, 3, 133, 0.75);
+font-family: 'Cantarell', sans-serif;
+  font-size: 17pt;
+    font-style: italic;
+}
+
+.typedquestion5 {
+  position: absolute;
+  top: 4060px;
+
+  left: 700px;
+  /* height: 1080px; */
+  background-color: none;
+  color: rgba(82, 3, 133, 0.75);
+    font-style: italic;
+font-family: 'Cantarell', sans-serif;
+  font-size: 17pt;
+}
+
+.typedquestion6 {
+  position: absolute;
+  top: 5060px;
+  left: 700px;
+  font-style: italic;
+  /* height: 1080px; */
+  background-color: none;
+  color: rgba(82, 3, 133, 0.75);
+font-family: 'Cantarell', sans-serif;
+  font-size: 17pt;
+}
+
+.typedquestion7 {
+  position: absolute;
+  top: 6060px;
+  left: 700px;
+  font-style: italic;
+  /* height: 1080px; */
+  background-color: none;
+  color: rgba(82, 3, 133, 0.75);
+font-family: 'Cantarell', sans-serif;
+  font-size: 17pt;
+}
+
+.typedquestion8 {
+  position: absolute;
+  top: 7060px;
+  left: 700px;
+  font-style: italic;
+  /* height: 1080px; */
+  background-color: none;
+  color: rgba(82, 3, 133, 0.75);
+font-family: 'Cantarell', sans-serif;
+  font-size: 17pt;
+}
+
+.typedquestion9 {
+  position: absolute;
+  top: 8060px;
+  left: 700px;
+  font-style: italic;
+  /* height: 1080px; */
+  background-color: none;
+  color: rgba(82, 3, 133, 0.75);
+font-family: 'Cantarell', sans-serif;
+  font-size: 17pt;
+}
+
+.typedquestion10 {
+  position: absolute;
+  top: 9060px;
+  left: 700px;
+  font-style: italic;
+  /* height: 1080px; */
+  background-color: none;
+  color: rgba(82, 3, 133, 0.75);
+font-family: 'Cantarell', sans-serif;
+  font-size: 17pt;
+}
+
+.typedquestion11 {
+  position: absolute;
+  top: 10060px;
+  left: 700px;
+  font-style: italic;
+  /* height: 1080px; */
+  background-color: none;
+  color: rgba(82, 3, 133, 0.75);
+font-family: 'Cantarell', sans-serif;
+  font-size: 17pt;
+}
+
+.typedquestion12 {
+  position: absolute;
+  top: 11060px;
+  left: 700px;
+  font-style: italic;
+  /* height: 1080px; */
+  background-color: none;
+  color: rgba(82, 3, 133, 0.75);
+font-family: 'Cantarell', sans-serif;
+  font-size: 17pt;
+}
+
+#section1 {
+  height: 1000px;
+  background-color: none;
+}
+
+#section2 {
+  height: 1000px;
+  background-color: none;
+}
+
+#section3 {
+  height:  1000px;
+  background-color: none;
+}
+
+#section4 {
+  height:  1000px;
+  background-color: none;
+}
+
+#section5 {
+  height:  1000px;
+  background-color: none;
+}
+
+#section6 {
+  height:  1000px;
+  background-color: none;
+}
+
+#section7 {
+  height:  1000px;
+  background-color: none;
+}
+
+#section8 {
+  height:  1000px;
+  background-color: none;
+}
+
+#section9 {
+  height:  1000px;
+  background-color: none;
+}
+
+#section10 {
+  height:  1000px;
+  background-color: none;
+}
+
+#section11 {
+  height:  1000px;
+  background-color: none;
+}
+
+#section12 {
+  height:  1000px;
+  background-color: none;
+}
